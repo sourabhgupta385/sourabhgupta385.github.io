@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sourabhgupta/static/css/main.95e4c945.chunk.css",
+    "main.js": "/sourabhgupta/static/js/main.7605d678.chunk.js",
+    "main.js.map": "/sourabhgupta/static/js/main.7605d678.chunk.js.map",
+    "runtime-main.js": "/sourabhgupta/static/js/runtime-main.89456040.js",
+    "runtime-main.js.map": "/sourabhgupta/static/js/runtime-main.89456040.js.map",
+    "static/css/2.510409cd.chunk.css": "/sourabhgupta/static/css/2.510409cd.chunk.css",
+    "static/js/2.d7fb9e27.chunk.js": "/sourabhgupta/static/js/2.d7fb9e27.chunk.js",
+    "static/js/2.d7fb9e27.chunk.js.map": "/sourabhgupta/static/js/2.d7fb9e27.chunk.js.map",
+    "index.html": "/sourabhgupta/index.html",
+    "precache-manifest.cfef3a7162245633ed634263275fc8b9.js": "/sourabhgupta/precache-manifest.cfef3a7162245633ed634263275fc8b9.js",
+    "service-worker.js": "/sourabhgupta/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/sourabhgupta/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.95e4c945.chunk.css.map": "/sourabhgupta/static/css/main.95e4c945.chunk.css.map",
+    "static/media/amazonaws-logo.png": "/sourabhgupta/static/media/amazonaws-logo.97537c3b.png",
+    "static/media/css-logo.png": "/sourabhgupta/static/media/css-logo.96a06b78.png",
+    "static/media/html-logo.png": "/sourabhgupta/static/media/html-logo.5345da81.png",
+    "static/media/isro-logo.png": "/sourabhgupta/static/media/isro-logo.97a83e97.png",
+    "static/media/java-logo.png": "/sourabhgupta/static/media/java-logo.09db717d.png",
+    "static/media/mdl-logo.png": "/sourabhgupta/static/media/mdl-logo.0ea1b87b.png",
+    "static/media/python-logo.png": "/sourabhgupta/static/media/python-logo.12bdf963.png",
+    "static/media/react-logo.png": "/sourabhgupta/static/media/react-logo.41b7c3ab.png",
+    "static/media/skitlogo.jpg": "/sourabhgupta/static/media/skitlogo.7e3add3e.jpg",
+    "static/media/sourabh.jpg": "/sourabhgupta/static/media/sourabh.28a8a434.jpg"
+  }
+}
