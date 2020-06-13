@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "798c53e0b13450b0c0723d3532c0ead1",
+    "revision": "d0e163f9cf140078bcdd4f3abfbd4391",
     "url": "/index.html"
   },
   {
-    "revision": "b1c9b34189446058b640",
+    "revision": "cb6494117378da0a6fdf",
     "url": "/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "70c5cf8c34a71b2e0bfd",
+    "revision": "b364d126575abc20ba2a",
     "url": "/static/css/main.01fb19a4.chunk.css"
   },
   {
-    "revision": "b1c9b34189446058b640",
-    "url": "/static/js/2.a414d11d.chunk.js"
+    "revision": "cb6494117378da0a6fdf",
+    "url": "/static/js/2.97ba68c5.chunk.js"
   },
   {
-    "revision": "70c5cf8c34a71b2e0bfd",
-    "url": "/static/js/main.08f2970b.chunk.js"
+    "revision": "b364d126575abc20ba2a",
+    "url": "/static/js/main.e1089d45.chunk.js"
   },
   {
     "revision": "512a4f888a379d4d7645",
@@ -28,12 +28,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/amazonaws-logo.97537c3b.png"
   },
   {
+    "revision": "8ba3ab3c3c5766bcabe389e3cc0c00f9",
+    "url": "/static/media/capstone-project.8ba3ab3c.png"
+  },
+  {
     "revision": "96a06b7872f694e844a8dc886827b717",
     "url": "/static/media/css-logo.96a06b78.png"
   },
   {
     "revision": "09b273f822a5469efad2254dac12c08f",
     "url": "/static/media/dashboard.09b273f8.png"
+  },
+  {
+    "revision": "180464b737dda464efe479e2ff8a16f7",
+    "url": "/static/media/deploy-ha-web-app-using-cloudformation.180464b7.PNG"
   },
   {
     "revision": "3da1632b253ecc3e508e632590ec694e",
@@ -60,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mdl-logo.0ea1b87b.png"
   },
   {
+    "revision": "22aa0e4697304dbb7a90fa025f7a5079",
+    "url": "/static/media/operationalize-ml-microservice-api.22aa0e46.PNG"
+  },
+  {
     "revision": "12bdf96307cfcd243e965adf6e5044a8",
     "url": "/static/media/python-logo.12bdf963.png"
   },
@@ -74,5 +86,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "619c359dacdf18d1325e828d5eeec5ce",
     "url": "/static/media/sourabh.619c359d.jpg"
+  },
+  {
+    "revision": "27e46ef4377deb7f3cd5c27759ad239d",
+    "url": "/static/media/udacity-project-build-cicd-pipeline.27e46ef4.PNG"
+  },
+  {
+    "revision": "935b7885984d60ce89434f222ee005d1",
+    "url": "/static/media/udacity.935b7885.png"
   }
 ]);
