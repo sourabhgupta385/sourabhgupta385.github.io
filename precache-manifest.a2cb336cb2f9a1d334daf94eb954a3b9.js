@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9100586c097e194c0cec67d4f133eb9",
+    "revision": "6bfeb4bd7f6272a980083a8b9033d4be",
     "url": "/index.html"
   },
   {
-    "revision": "c41fb67aa6e644e375fa",
+    "revision": "d46f4a428c56b98e466c",
     "url": "/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "9862bd2b5e68b1bc7ca1",
+    "revision": "d67f6103052ff757807a",
     "url": "/static/css/main.01fb19a4.chunk.css"
   },
   {
-    "revision": "c41fb67aa6e644e375fa",
-    "url": "/static/js/2.b2fd0332.chunk.js"
+    "revision": "d46f4a428c56b98e466c",
+    "url": "/static/js/2.8a7c17b1.chunk.js"
   },
   {
-    "revision": "9862bd2b5e68b1bc7ca1",
-    "url": "/static/js/main.6b60b194.chunk.js"
+    "revision": "d67f6103052ff757807a",
+    "url": "/static/js/main.bcb6f4cb.chunk.js"
   },
   {
     "revision": "512a4f888a379d4d7645",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "180464b737dda464efe479e2ff8a16f7",
     "url": "/static/media/deploy-ha-web-app-using-cloudformation.180464b7.PNG"
+  },
+  {
+    "revision": "a457e366f75059dcb45fc09c77fd8763",
+    "url": "/static/media/design-for-security.a457e366.PNG"
   },
   {
     "revision": "3da1632b253ecc3e508e632590ec694e",
@@ -78,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "41b7c3ab21e831db5989bbde567054d6",
     "url": "/static/media/react-logo.41b7c3ab.png"
+  },
+  {
+    "revision": "fe10cf1e7ef48e3a976aaa894e1c7044",
+    "url": "/static/media/recoverability-in-aws.fe10cf1e.PNG"
   },
   {
     "revision": "7e3add3e50cadd8528640a31389a21c1",
