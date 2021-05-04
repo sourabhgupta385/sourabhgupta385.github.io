@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b80d59c6fcc2bd825623c0cdaba766f",
+    "revision": "e2a098d0527debcd62804d1cb61e9169",
     "url": "/index.html"
   },
   {
-    "revision": "d59d971a1bcb2f4ca386",
+    "revision": "836bb2511280c86c8b37",
     "url": "/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "85e3b337ff03c4e07733",
-    "url": "/static/css/main.01fb19a4.chunk.css"
+    "revision": "fddbbb7c76ab91dac63d",
+    "url": "/static/css/main.6b8fa735.chunk.css"
   },
   {
-    "revision": "d59d971a1bcb2f4ca386",
-    "url": "/static/js/2.3c099f12.chunk.js"
+    "revision": "836bb2511280c86c8b37",
+    "url": "/static/js/2.ad1856ee.chunk.js"
   },
   {
-    "revision": "85e3b337ff03c4e07733",
-    "url": "/static/js/main.9ec5d677.chunk.js"
+    "revision": "fddbbb7c76ab91dac63d",
+    "url": "/static/js/main.316d2235.chunk.js"
   },
   {
     "revision": "512a4f888a379d4d7645",
     "url": "/static/js/runtime-main.1638fc71.js"
   },
   {
-    "revision": "97537c3be7ab6e2f187e9c7c9d386a12",
-    "url": "/static/media/amazonaws-logo.97537c3b.png"
+    "revision": "741345ef49ae725260792a40e2799717",
+    "url": "/static/media/amazonaws-logo.741345ef.png"
   },
   {
     "revision": "8050a6d5825f6c927a527bb9a9dce73c",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ba3ab3c3c5766bcabe389e3cc0c00f9",
     "url": "/static/media/capstone-project.8ba3ab3c.png"
-  },
-  {
-    "revision": "96a06b7872f694e844a8dc886827b717",
-    "url": "/static/media/css-logo.96a06b78.png"
   },
   {
     "revision": "09b273f822a5469efad2254dac12c08f",
@@ -52,6 +48,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/design-for-security.a457e366.PNG"
   },
   {
+    "revision": "04e48fd4dfb8ad472e279d664c922ede",
+    "url": "/static/media/gitlab-associate.04e48fd4.png"
+  },
+  {
     "revision": "3da1632b253ecc3e508e632590ec694e",
     "url": "/static/media/guess-number.3da1632b.png"
   },
@@ -60,32 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/helm3.96fa15fc.jpg"
   },
   {
-    "revision": "5345da81e8467003e1ad0d8db99695e9",
-    "url": "/static/media/html-logo.5345da81.png"
+    "revision": "097add843191ec31fc23da06e0b41481",
+    "url": "/static/media/infosys-logo.097add84.png"
   },
   {
     "revision": "97a83e97b37952189e980d013d7ddadd",
     "url": "/static/media/isro-logo.97a83e97.png"
   },
   {
-    "revision": "09db717dd2b20910f730d69e8d75bf3b",
-    "url": "/static/media/java-logo.09db717d.png"
-  },
-  {
-    "revision": "0ea1b87b742cb3578e5f03f3224f3ecd",
-    "url": "/static/media/mdl-logo.0ea1b87b.png"
+    "revision": "6ef3a5ad1788891d3075c2b202e171f4",
+    "url": "/static/media/jenkins-logo.6ef3a5ad.png"
   },
   {
     "revision": "22aa0e4697304dbb7a90fa025f7a5079",
     "url": "/static/media/operationalize-ml-microservice-api.22aa0e46.PNG"
-  },
-  {
-    "revision": "12bdf96307cfcd243e965adf6e5044a8",
-    "url": "/static/media/python-logo.12bdf963.png"
-  },
-  {
-    "revision": "41b7c3ab21e831db5989bbde567054d6",
-    "url": "/static/media/react-logo.41b7c3ab.png"
   },
   {
     "revision": "fe10cf1e7ef48e3a976aaa894e1c7044",
