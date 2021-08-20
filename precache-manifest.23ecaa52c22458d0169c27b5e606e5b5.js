@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2a098d0527debcd62804d1cb61e9169",
+    "revision": "df9e958128f2e87ae71c1802412248c0",
     "url": "/index.html"
   },
   {
-    "revision": "836bb2511280c86c8b37",
+    "revision": "758e46c77aaeccb22e96",
     "url": "/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "fddbbb7c76ab91dac63d",
+    "revision": "08c331884b78349ee586",
     "url": "/static/css/main.6b8fa735.chunk.css"
   },
   {
-    "revision": "836bb2511280c86c8b37",
-    "url": "/static/js/2.ad1856ee.chunk.js"
+    "revision": "758e46c77aaeccb22e96",
+    "url": "/static/js/2.cfac2fd1.chunk.js"
   },
   {
-    "revision": "fddbbb7c76ab91dac63d",
-    "url": "/static/js/main.316d2235.chunk.js"
+    "revision": "08c331884b78349ee586",
+    "url": "/static/js/main.1eefb753.chunk.js"
   },
   {
     "revision": "512a4f888a379d4d7645",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "741345ef49ae725260792a40e2799717",
     "url": "/static/media/amazonaws-logo.741345ef.png"
+  },
+  {
+    "revision": "349ad751d274fb63f9b49aa507947392",
+    "url": "/static/media/azure-administrator.349ad751.PNG"
   },
   {
     "revision": "8050a6d5825f6c927a527bb9a9dce73c",
