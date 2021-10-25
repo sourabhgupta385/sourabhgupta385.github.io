@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df9e958128f2e87ae71c1802412248c0",
+    "revision": "2f0029300f87697091e232637676e614",
     "url": "/index.html"
   },
   {
-    "revision": "758e46c77aaeccb22e96",
+    "revision": "bc38dbd5e1c92cec8377",
     "url": "/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "08c331884b78349ee586",
+    "revision": "92db962635d31d52c62e",
     "url": "/static/css/main.6b8fa735.chunk.css"
   },
   {
-    "revision": "758e46c77aaeccb22e96",
-    "url": "/static/js/2.cfac2fd1.chunk.js"
+    "revision": "bc38dbd5e1c92cec8377",
+    "url": "/static/js/2.a1e5a2b8.chunk.js"
   },
   {
-    "revision": "08c331884b78349ee586",
-    "url": "/static/js/main.1eefb753.chunk.js"
+    "revision": "92db962635d31d52c62e",
+    "url": "/static/js/main.ae5522e8.chunk.js"
   },
   {
     "revision": "512a4f888a379d4d7645",
     "url": "/static/js/runtime-main.1638fc71.js"
+  },
+  {
+    "revision": "f364aa61d1536948327a787f0d0facf8",
+    "url": "/static/media/Sourabh_Gupta_1.f364aa61.png"
   },
   {
     "revision": "741345ef49ae725260792a40e2799717",
@@ -86,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7e3add3e50cadd8528640a31389a21c1",
     "url": "/static/media/skitlogo.7e3add3e.jpg"
-  },
-  {
-    "revision": "619c359dacdf18d1325e828d5eeec5ce",
-    "url": "/static/media/sourabh.619c359d.jpg"
   },
   {
     "revision": "27e46ef4377deb7f3cd5c27759ad239d",
